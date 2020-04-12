@@ -9,18 +9,18 @@ background-position: center, right center, left center;
 background-repeat: no-repeat;
 }
 #audience-canvas {
-background: url(http://68.media.tumblr.com/1686a724a424593f45e24a88b58b22fb/tumblr_mt6g4rgeT41s5jjtzo1_400.gif),url(https://66.media.tumblr.com/f639a1b9d50b7a12e5d00ef5fa7a1e7a/tumblr_nvqigjf7tB1uds4wro1_250.gif);
-background-size: 40px 36px;
+background: url(http://68.media.tumblr.com/1686a724a424593f45e24a88b58b22fb/tumblr_mt6g4rgeT41s5jjtzo1_400.gif),url(https://66.media.tumblr.com/f639a1b9d50b7a12e5d00ef5fa7a1e7a/tumblr_nvqigjf7tB1uds4wro1_250.gif),url(https://westernrifleshooters.files.wordpress.com/2011/08/dancing_banana.gif);
+background-size: 40px 48px, 40px 46px, 40px 40px;
 background-position: contain;
 background-repeat: no-repeat;
 }
 #dj-booth {
 background:
 url(https://media.giphy.com/media/fV1359CmewC3PgVPaw/source.gif),url(http://68.media.tumblr.com/1686a724a424593f45e24a88b58b22fb/tumblr_mt6g4rgeT41s5jjtzo1_400.gif),url(http://68.media.tumblr.com/1686a724a424593f45e24a88b58b22fb/tumblr_mt6g4rgeT41s5jjtzo1_400.gif);
-background-size: 300px 250px, 50px 50px;
-background-position: bottom;
-background-repeat: repeat-x;
-}
+background-size: 300px 250px, 500px 50px;
+background-position: bottom, bottom, bottom;
+background-repeat: no-repeat, no-repeat, repeat-x;
+} 
 /* Icon fix :before */
 div.message > div.msg > div.from > span.un {
     vertical-align: top;
