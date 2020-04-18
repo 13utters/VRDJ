@@ -9,7 +9,7 @@
   -o-transform: rotate(180deg);
   transform: rotate(180deg);
 }
-#app {
+desktop.background {
     background: url(https://cdn.radiant.dj/rcs/bg/2k15_beach_torchesleft.gif) no-repeat;
     position: absolute;
     top: 451px;
@@ -17,7 +17,7 @@
     width: 93px;
     height: 184px;
 }
-#app {
+desktop.background {
     background: url(https://cdn.radiant.dj/rcs/bg/2k15_beach_torchesright.gif) no-repeat;
     position: absolute;
     top: 451px;
@@ -39,7 +39,7 @@ background-repeat: no-repeat;
 }
 #dj-booth {
 background:
-url(https://media.giphy.com/media/fV1359CmewC3PgVPaw/source.gif),url(http://68.media.tumblr.com/1686a724a424593f45e24a88b58b22fb/tumblr_mt6g4rgeT41s5jjtzo1_400.gif) class="rotateimg180",url(http://68.media.tumblr.com/1686a724a424593f45e24a88b58b22fb/tumblr_mt6g4rgeT41s5jjtzo1_400.gif);
+url(https://media.giphy.com/media/fV1359CmewC3PgVPaw/source.gif),url(http://68.media.tumblr.com/1686a724a424593f45e24a88b58b22fb/tumblr_mt6g4rgeT41s5jjtzo1_400.gif), url(http://68.media.tumblr.com/1686a724a424593f45e24a88b58b22fb/tumblr_mt6g4rgeT41s5jjtzo1_400.gif);
 background-size: 300px 250px, 500px 50px, 250px 250px;
 background-position: bottom, bottom, bottom;
 background-repeat: no-repeat, repeat-x, no-repeat;
