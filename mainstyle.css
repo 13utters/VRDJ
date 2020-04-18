@@ -2,6 +2,25 @@
 @import url(https://raw.githack.com/13utters/VRDJ/master/chatelements.css);
 
 /* main */
+.room-background #RCSspecialTheme {
+    display: initial!important;
+}
+.room-background #RCSspecialTheme.a.beach {
+    position: absolute;
+    top: 451px;
+    left: 305px;
+    width: 93px;
+    height: 184px;
+    background: url(https://cdn.radiant.dj/rcs/bg/2k15_beach_torchesleft.gif) no-repeat;
+}
+.room-background #RCSspecialTheme.b.beach {
+    position: absolute;
+    top: 451px;
+    left: 1201px;
+    width: 93px;
+    height: 184px;
+    background: url(https://cdn.radiant.dj/rcs/bg/2k15_beach_torchesright.gif) no-repeat;
+}
 #app {
 background: url(https://themushroomkingdom.net/images/ani/ani_4ghost2.gif),url(http://68.media.tumblr.com/1686a724a424593f45e24a88b58b22fb/tumblr_mt6g4rgeT41s5jjtzo1_400.gif),url(http://img0.joyreactor.com/pics/post/ebolnyan-ebola-gif-1620755.gif);
 background-size: 64px 64px, 281px 500px, 1280px 800px;
